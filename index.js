@@ -19,3 +19,5 @@ function calculate(sum, day, percent, isCapital) {
 	/* TODO: Вернуть получившееся значение */
 }
 console.log(calculate)
+console.log('67');
+
